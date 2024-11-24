@@ -1,0 +1,6 @@
+# Exclure toutes les notes markdown
+# Exclure les fichiers système et caches Obsidian
+.obsidian/cache
+.DS_Store
+Thumbs.db
+.obsidian/
